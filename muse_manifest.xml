@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="лайтсайн.рф" resolutions="1x" timestamp="1522073090132">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="лайтсайн.рф" resolutions="1x" timestamp="1522088475518">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="522045040" ref="index"/>
+    <file name="index.css" crc="233479164" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="neosansw1g-regular.woff" crc="3969582058"/>
-    <file name="neosansw1g-regular.eot" crc="4239165946"/>
-    <file name="neosansw1g-regular.svg" crc="4016714813"/>
+    <file name="neosansw06-regular.woff" crc="4230288660"/>
+    <file name="neosansw06-regular.eot" crc="4142258801"/>
+    <file name="neosansw06-regular.svg" crc="3889310839"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,5 +22,5 @@
     </file>
     <file name="lightsignoutdooradvertisingru_poster_.png" crc="3772458225" ref="index"/>
   </folder>
-  <file name="index.html" crc="4055516730" seo="true" mt="1522073082109" redirect="true"/>
+  <file name="index.html" crc="264049732" seo="true" mt="1522088450233" redirect="true"/>
 </manifest>
